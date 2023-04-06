@@ -6,9 +6,10 @@ I'm Anthony, web developer at Astek.
 
 On my free time I'm currently working on [Riot API Connector](https://github.com/anthonyrave/riot-api-connector). It aims to be an easy to use package to help Laravel enjoyers to create amazing applications with Riot games' API.
 
-### Get in touch 🤝
+### My links 🔗
 
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&logo=linkedin&message=LinkedIn&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/anthony-rave-5b4231144/)
+[![Stack Overflow](https://img.shields.io/static/v1?label=%20&logo=stackoverflow&message=Stack%20Overflow&color=F8F9F9&style=for-the-badge)](https://stackoverflow.com/users/13439129/anthony-rave)
 
 <!--
 

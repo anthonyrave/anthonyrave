@@ -10,6 +10,7 @@ On my free time I'm currently working on [Riot API Connector](https://github.com
 
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&logo=linkedin&message=LinkedIn&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/anthony-rave-5b4231144/)
 [![Stack Overflow](https://img.shields.io/static/v1?label=%20&logo=stackoverflow&message=Stack%20Overflow&color=F8F9F9&style=for-the-badge)](https://stackoverflow.com/users/13439129/anthony-rave)
+[![Twitter](https://img.shields.io/static/v1?label=%20&logo=twitter&logoColor=white&message=Twitter&color=1DA1F2&style=for-the-badge)](https://stackoverflow.com/users/13439129/anthony-rave)
 
 <!--
 

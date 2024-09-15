@@ -4,7 +4,7 @@ I'm Anthony, web developer at Astek.
 
 ### Projects 👨‍💻
 
-On my free time I'm currently working on [Riot API Connector](https://github.com/anthonyrave/riot-api-connector). It aims to be an easy to use package to help Laravel enjoyers to create amazing applications with Riot games' API.
+On my free time I'm currently learning Rust.
 
 ### My links 🔗
 

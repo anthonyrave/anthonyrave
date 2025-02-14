@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anthony, web developer at Astek.
+I'm Anthony, web developer at Prozon.
 
 ### Projects 👨‍💻
 

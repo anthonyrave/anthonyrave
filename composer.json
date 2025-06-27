@@ -1,0 +1,22 @@
+{
+    "name": "anthonyrave/anthonyrave",
+    "description": "Anthony Rave's personal PHP project with PHPStan static analysis",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "AnthonyRave\\": "src/"
+        }
+    },
+    "scripts": {
+        "phpstan": "phpstan analyse src/ --level=5"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
